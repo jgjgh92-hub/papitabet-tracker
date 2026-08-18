@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: papitabet-tracker
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node server/index.js
+    envVars:
+      - key: PORT
+        value: 3000
+      - key: PANDASCORE_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: TELEGRAM_API_ID
+        sync: false
+      - key: TELEGRAM_API_HASH
+        sync: false

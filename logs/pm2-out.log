@@ -1,0 +1,30 @@
+2026-08-18 16:28:06: 
+🎰 PapitaBET Tracker corriendo en http://localhost:3000
+2026-08-18 16:28:06: 📡 WebSocket disponible en ws://localhost:3000/ws
+2026-08-18 16:28:06: 
+💡 Si no has autenticado Telegram, corre: npm run setup-telegram
+
+2026-08-18 16:28:06: 
+⏰ Sistema de automatización activo:
+2026-08-18 16:28:06:    📡 Lectura de capturas: 1 imagen cada 15 minutos (4/hora, ~96/día)
+2026-08-18 16:28:06:    🔍 Verificación de resultados: Cada 1 hora en PandaScore
+2026-08-18 16:30:02: 
+🎰 PapitaBET Tracker corriendo en http://localhost:3000
+2026-08-18 16:30:02: 📡 WebSocket disponible en ws://localhost:3000/ws
+2026-08-18 16:30:02: 
+💡 Si no has autenticado Telegram, corre: npm run setup-telegram
+
+2026-08-18 16:30:02: 
+⏰ Sistema de automatización activo:
+2026-08-18 16:30:02:    📡 Lectura de capturas: 1 imagen cada 15 minutos (4/hora, ~96/día)
+2026-08-18 16:30:02:    🔍 Verificación de resultados: Cada 1 hora en PandaScore
+2026-08-18 16:31:30: 
+2026-08-18 16:31:30: 🎰 PapitaBET Tracker corriendo en http://localhost:3000
+2026-08-18 16:31:30: 📡 WebSocket disponible en ws://localhost:3000/ws
+2026-08-18 16:31:30: 
+2026-08-18 16:31:30: 💡 Si no has autenticado Telegram, corre: npm run setup-telegram
+2026-08-18 16:31:30: 
+2026-08-18 16:31:30: 
+2026-08-18 16:31:30: ⏰ Sistema de automatización activo:
+2026-08-18 16:31:30:    📡 Lectura de capturas: 1 imagen cada 15 minutos (4/hora, ~96/día)
+2026-08-18 16:31:30:    🔍 Verificación de resultados: Cada 1 hora en PandaScore

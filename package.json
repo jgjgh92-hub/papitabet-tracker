@@ -1,0 +1,30 @@
+{
+  "name": "papitabet-tracker",
+  "version": "1.0.0",
+  "description": "Tracker de apuestas esports del canal PapitaBET",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js",
+    "setup-telegram": "node server/telegram-setup.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.3",
+    "express-ws": "^5.0.2",
+    "telegram": "^2.22.2",
+    "input": "^1.0.1",
+    "@google/generative-ai": "^0.21.0",
+    "axios": "^1.7.9",
+    "xlsx": "^0.18.5",
+    "node-fetch": "^2.7.0",
+    "sharp": "^0.33.3",
+    "multer": "^1.4.5-lts.1",
+    "node-cron": "^3.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
